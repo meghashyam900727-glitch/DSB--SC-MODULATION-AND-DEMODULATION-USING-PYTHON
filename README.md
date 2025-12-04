@@ -66,5 +66,4 @@ plt.show()
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/5e47086a-9eb5-498b-945a-5f8dbfab76f5" />
 
    __Result__:
-   The message signal , carrier signal and phase modulation (PM) signal will be displayed in seperate 
-   plots. The modulation signals will show phase variation corresponding to the amplitude of the message signal.
+![image](https://github.com/user-attachments/assets/d4d5c1b7-1d8a-42e3-b09e-464f8f77b9aa)
