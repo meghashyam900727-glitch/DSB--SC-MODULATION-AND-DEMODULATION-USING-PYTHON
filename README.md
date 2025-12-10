@@ -60,11 +60,11 @@ plt.show()
 
    __Tabulation__:
    
-![WhatsApp Image 2025-12-10 at 10 16 46_29d95b58](https://github.com/user-attachments/assets/abe580ac-67b4-4b3e-8029-6a62089fde04)
+
 
 
    __Output__:
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/5e47086a-9eb5-498b-945a-5f8dbfab76f5" />
 
    __Result__:
-![image](https://github.com/user-attachments/assets/d4d5c1b7-1d8a-42e3-b09e-464f8f77b9aa)
+thus,To generate a Double Sideband Suppressed Carrier (DSB-SC) signal in Python (Google Colab), transmit it (optionally add noise), and recover the message using coherent (synchronous) demodulation with a low-pass filter. Observe time and frequency domain waveforms and measure demodulation performance is verified
